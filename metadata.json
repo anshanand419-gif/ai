@@ -1,0 +1,6 @@
+{
+  "name": "PixAI Studio - AI Video & Image Creation Platform",
+  "description": "Create viral AI videos, 3D cartoons & animations, image-to-video motion, multi-language dubbing with lip-sync, 1-click background removal, high-converting ad scripts, and auto-captioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
